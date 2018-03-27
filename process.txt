@@ -1,0 +1,4 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+
+Administ    8196       1 cons0    23:59:43 /usr/bin/ps
+
